@@ -28,7 +28,7 @@ If you find this repo helpful, please cite our paper.
 @inproceedings{
 zhang2026flexformer,
 title={Flexformer: Flexible Linear Transformer with Learnable Attention Kernel},
-author={Haoran Zhang and Zisu Dong and Feng Zhou},
+author={Zhang, Haoran and Dong, Zisu and Zhou, Feng},
 booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
 year={2026},
 url={https://openreview.net/forum?id=D8frDvzgAf}
