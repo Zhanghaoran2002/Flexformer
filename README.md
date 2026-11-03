@@ -22,7 +22,7 @@ validation and performance benchmarks have not yet been run.
 
 ## Citation
 
-If you use Flexformer in your research, please cite:
+If you find this repo helpful, please cite our paper.
 
 ```bibtex
 @inproceedings{zhang2026flexformer,
