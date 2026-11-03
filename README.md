@@ -19,3 +19,19 @@ validation and performance benchmarks have not yet been run.
 - `listops/`, `listops_train.py`: ListOps data and training code.
 - `scripts/listops/`: training script examples.
 - `tests/`: optional correctness tests for causal attention and gradients.
+
+## Citation
+
+If you use Flexformer in your research, please cite:
+
+```bibtex
+@inproceedings{zhang2026flexformer,
+  title     = {{Flexformer}: Flexible Linear Transformer with Learnable Attention Kernel},
+  author    = {Zhang, Haoran and Dong, Zisu and Zhou, Feng},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=D8frDvzgAf}
+}
+```
+
+This conference citation is based on the [official NeurIPS 2026 paper listing](https://neurips.cc/virtual/2026/poster/154501). Volume, pages, and DOI are omitted until officially available.
