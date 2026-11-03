@@ -33,5 +33,3 @@ If you use Flexformer in your research, please cite:
   url       = {https://openreview.net/forum?id=D8frDvzgAf}
 }
 ```
-
-This conference citation is based on the [official NeurIPS 2026 paper listing](https://neurips.cc/virtual/2026/poster/154501). Volume, pages, and DOI are omitted until officially available.
