@@ -26,7 +26,7 @@ If you find this repo helpful, please cite our paper.
 
 ```bibtex
 @inproceedings{zhang2026flexformer,
-  title     = {{Flexformer}: Flexible Linear Transformer with Learnable Attention Kernel},
+  title     = {Flexformer: Flexible Linear Transformer with Learnable Attention Kernel},
   author    = {Zhang, Haoran and Dong, Zisu and Zhou, Feng},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026},
