@@ -25,11 +25,12 @@ validation and performance benchmarks have not yet been run.
 If you find this repo helpful, please cite our paper.
 
 ```bibtex
-@inproceedings{zhang2026flexformer,
-  title     = {Flexformer: Flexible Linear Transformer with Learnable Attention Kernel},
-  author    = {Zhang, Haoran and Dong, Zisu and Zhou, Feng},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=D8frDvzgAf}
+@inproceedings{
+zhang2026flexformer,
+title={Flexformer: Flexible Linear Transformer with Learnable Attention Kernel},
+author={Anonymous},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=D8frDvzgAf}
 }
 ```
